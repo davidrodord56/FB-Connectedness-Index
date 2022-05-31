@@ -165,3 +165,6 @@ gadm1_nuts3_counties-gadm1_nuts3_counties - FB Social Connectedness Index - Octo
 gadm1_nuts3_counties-gadm1_nuts3_counties-fb-social-connectedness-index-october-2021.zip
 database_county_file.pkl
 database_county_file_names.pkl
+database_county_file_names.pkl
+database_county_file.pkl
+*.pkl
